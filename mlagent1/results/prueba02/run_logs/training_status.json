@@ -1,0 +1,29 @@
+{
+    "enemigoml": {
+        "checkpoints": [
+            {
+                "steps": 228000,
+                "file_path": "results\\curso01\\enemigoml\\enemigoml-228000.onnx",
+                "reward": 2265.7875162760415,
+                "creation_time": 1736868846.5433404,
+                "auxillary_file_paths": [
+                    "results\\curso01\\enemigoml\\enemigoml-228000.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 228000,
+            "file_path": "results\\curso01\\enemigoml.onnx",
+            "reward": 2265.7875162760415,
+            "creation_time": 1736868846.5433404,
+            "auxillary_file_paths": [
+                "results\\curso01\\enemigoml\\enemigoml-228000.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.9.1+cpu"
+    }
+}

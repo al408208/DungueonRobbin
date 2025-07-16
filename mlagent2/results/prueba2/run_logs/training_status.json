@@ -1,0 +1,51 @@
+{
+    "enemigoml": {
+        "checkpoints": [
+            {
+                "steps": 120000,
+                "file_path": "results\\curso02\\enemigoml\\enemigoml-120000.onnx",
+                "reward": 2260.0,
+                "creation_time": 1736900871.5270538,
+                "auxillary_file_paths": [
+                    "results\\curso02\\enemigoml\\enemigoml-120000.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 120000,
+            "file_path": "results\\curso02\\enemigoml.onnx",
+            "reward": 2260.0,
+            "creation_time": 1736900871.5270538,
+            "auxillary_file_paths": [
+                "results\\curso02\\enemigoml\\enemigoml-120000.pt"
+            ]
+        }
+    },
+    "enemigo2ml": {
+        "checkpoints": [
+            {
+                "steps": 120000,
+                "file_path": "results\\curso02\\enemigo2ml\\enemigo2ml-120000.onnx",
+                "reward": 2284.4685872395835,
+                "creation_time": 1736900871.6152864,
+                "auxillary_file_paths": [
+                    "results\\curso02\\enemigo2ml\\enemigo2ml-120000.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 120000,
+            "file_path": "results\\curso02\\enemigo2ml.onnx",
+            "reward": 2284.4685872395835,
+            "creation_time": 1736900871.6152864,
+            "auxillary_file_paths": [
+                "results\\curso02\\enemigo2ml\\enemigo2ml-120000.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.9.1+cpu"
+    }
+}
